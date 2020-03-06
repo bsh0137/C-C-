@@ -1,0 +1,5 @@
+﻿  e03.cpp
+  ex04.cpp
+  코드를 생성하고 있습니다...
+ex04.obj : error LNK2005: _main이(가) e03.obj에 이미 정의되어 있습니다.
+C:\Users\customer\Desktop\Programming_practice\C++\t04\Debug\t04.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
